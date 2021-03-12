@@ -1,1 +1,1 @@
-# jupyternb
+# Coursera Genomic Data Science Specialization
